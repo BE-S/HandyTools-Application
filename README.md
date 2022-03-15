@@ -39,7 +39,7 @@ Now go to back and select radioButton "Файл" or "File" and click on button "
 <img src = "https://github.com/BE-S/Screens/blob/main/HandyTool/10.jpg?raw=true" width = "400" title = "Choise file"><br>
 And get text from file<br>
 <img src = "https://github.com/BE-S/Screens/blob/main/HandyTool/11.jpg?raw=true" width = "400" title = "Open file"><br>
-And repeat action for print.<br><br>
+If you want print this text click on button "Ок" and select button "Печать"<br><br>
 
 ____
 [My Telegram](https://t.me/BESpalikov)
