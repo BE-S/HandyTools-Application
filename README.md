@@ -1,5 +1,5 @@
 # HandyTool(Application)
-> You can use this application free
+> You can use this application freef
 
 Hi! This first my gui application written in company OOO "ХимПром". HandyTool is very unfinished application but if you want use this application i wiil tell you how use HandyTool.
 <br><br>
