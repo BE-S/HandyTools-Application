@@ -6,7 +6,7 @@ Hi! This first my gui application written in company OOO "ХимПром". Handy
 
 To position your block of text in a certain place you need to use fields X и Y. Block with text regulated is adjusted using fields "Ширина" and "Высота" or translate "Width" and "Height".
 
-<img src = "https://github.com/BE-S/Screens/blob/main/HandyTool/1.jpg?raw=true" width = "400" title = "Main window">
+<img src = "https://github.com/BE-S/Screen/blob/main/HandyTool/1.jpg?raw=true" width = "400" title = "Main window">
 <br>
 HandyTool takes the size fields in centimeteres.
 <br><br>
