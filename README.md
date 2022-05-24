@@ -26,9 +26,10 @@ and get<br>
 
 Press button "Ок" to go Main window.<br><br>
 
+Now press button "Печать" or "print"<br>
+<img src = "6.jpg" width = "400" title = "Print">
 
-
-I choise Microsoft print to PDF because i no have a printer now.
+I choise Microsoft print to PDF because i no have a printer now.<br>
 <img src = "https://github.com/BE-S/Screen/blob/main/HandyTool/7.jpg?raw=true" width = "400" title = "Choise devise"><br>
 <img src = "https://github.com/BE-S/Screen/blob/main/HandyTool/8.jpg?raw=true" width = "400" title = "Name file"><br>
 <img src = "https://github.com/BE-S/Screen/blob/main/HandyTool/9.jpg?raw=true" width = "400" title = "New file">
