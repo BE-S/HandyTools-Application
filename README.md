@@ -27,8 +27,8 @@ and get<br>
 Press button "Ок" to go Main window.<br><br>
 
 Now press button "Печать" or "print"<br>
-<img src = "https://github.com/BE-S/Screen/blob/main/HandyTool/6.jpg?raw=true" width = "400" title = "Print"><br><br><br><br>
-
+<img src = "https://github.com/BE-S/Screen/blob/main/HandyTool/6.jpg?raw=true" width = "400" title = "Print">
+<br>
 I choise Microsoft print to PDF because i no have a printer now.
 <img src = "https://github.com/BE-S/Screen/blob/main/HandyTool/7.jpg?raw=true" width = "400" title = "Choise devise"><br>
 <img src = "https://github.com/BE-S/Screen/blob/main/HandyTool/8.jpg?raw=true" width = "400" title = "Name file"><br>
